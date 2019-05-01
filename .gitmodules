@@ -1,3 +1,6 @@
 [submodule "plugins/view_customize"]
 	path = plugins/view_customize
 	url = https://github.com/onozaty/redmine-view-customize
+[submodule "plugins/theme/redmine-theme-flat"]
+	path = public/themes/redmine-theme-flat
+	url = https://github.com/tsi/redmine-theme-flat.git
