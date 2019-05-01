@@ -1,0 +1,3 @@
+[submodule "plugins/view_customize"]
+	path = plugins/view_customize
+	url = https://github.com/onozaty/redmine-view-customize
